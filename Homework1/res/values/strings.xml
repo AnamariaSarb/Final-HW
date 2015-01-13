@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="hblue" type="color">#33b5e5</item>
+
+    <string name="app_name">Homework</string>
+    <string name="str_iv_flag">Flag</string>
+    <string name="action_weather">Weather</string>
+    <string name="action_pet">Pet</string>
+    <string name="textView">E-mail address</string>
+    <string name="action_overflow">Overflow</string>
+    <string name="fav_links">Favorite links</string>
+    <string name="old_password">Old Password</string>
+    <string name="change_password">Change password</string>
+    <string name="o_password">Old Password:</string>
+    <string name="title_activity_login">Log In</string>
+    <string name="title_questions">Questions</string>
+    <string name="title_pet">My dog</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="action_logout">Log out</string>
+    <string name="username">Username:</string>
+    <string name="sign_up_label">Sign up</string>
+    <string name="password_label">Password:</string>
+    <string name="txt_editablepassword">Password</string>
+    <string name="already_have_an_account_label">Already have an account? Log in!</string>
+    <string name="log_in_label">Log In</string>
+    <string name="dont_have_an_account_label">&quot;Don't have an account? Register!&quot;</string>
+    <string name="email">E-mail:</string>
+    <string name="SignUp">Sign up</string>
+    <string name="LogIn">Log in</string>
+    <string name="Welcome">Welcome</string>
+    <string name="title_welcome">Homework</string>
+    <string name="image">image</string>
+    <string name="saveprofile">Save</string>
+    <string name="selectphoto">Select photo</string>
+    <string name="logout">Log out</string>
+    <string name="txt_welcome">&quot;Welcome,&quot;</string>
+    <string name="emailview">E-mail</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="menu_fragment">Fragment</string>
+    <string name="new_password">New password</string>
+    <string name="cancel">Cancel</string>
+    <string name="changePasswordBtn">Change password</string>
+    <string name="ok">OK</string>
+    <string name="input_hint">Enter a link</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_activity_change_password">Change password</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="change_city">Change city</string>
+    <string name="open_weather_maps_app_id">e5cd6c82dbbeca016e880b64b43875a9</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="quest">Questionnaire about your dog</string>
+    <string name="pug">Pug</string>
+    <string name="rottweiler">Rottweiler</string>
+    <string name="labr">Labrador Retriever</string>
+    <string name="boxer">Boxer</string>
+    <string name="bichon">Bichon</string>
+    <string name="q1">What breed is your dog?</string>
+    <string name="q2">&quot;What is your dog's name?&quot;</string>
+    <string name="q3">How old is your dog?</string>
+    <string name="q4">What sex is it?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="done">Done</string>
+   
+
+</resources>
